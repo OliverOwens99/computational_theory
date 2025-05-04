@@ -58,11 +58,11 @@ This connects directly to blockchain mining concepts where finding values with m
 ## Task 7: Turing Machines
 Implemented a binary increment Turing machine:
 
-- Created a 3-state machine (Scan, Carry, Halt) that adds 1 to binary numbers
+- Created a 3-state machine (Scan, Carry, Halt) that adds 1 to binary numbers using little-endian representation
 - Defined a state transition table modeling the carry operation in binary addition
 - Successfully tested with multiple examples including overflow cases (e.g., 1111 → 10000)
 
-This demonstrates one of the fundamental examples of a Turing machine performing a practical computation while handling all edge cases, including carrying operations and number expansion.
+This demonstrates one of the fundamental examples of a Turing machine performing a practical computation while handling all edge cases, including carrying operations and number expansion. The little-endian approach (least significant bit on the right) aligns with how we typically perform addition, carrying values from right to left.Turing didnt expressly mention this as his tape was infinate but this mattered later as space became a concern.
 ---
 ## Task 8: Computational Complexity
 
