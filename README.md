@@ -56,12 +56,19 @@ Searched for English words with the most leading zero bits in their SHA-256 hash
 This connects directly to blockchain mining concepts where finding values with many leading zeros is the central challenge.
 ---
 ## Task 7: Turing Machines
+Implemented a binary increment Turing machine:
+
+- Created a 3-state machine (Scan, Carry, Halt) that adds 1 to binary numbers
+- Defined a state transition table modeling the carry operation in binary addition
+- Successfully tested with multiple examples including overflow cases (e.g., 1111 → 10000)
+
+This demonstrates one of the fundamental examples of a Turing machine performing a practical computation while handling all edge cases, including carrying operations and number expansion.
 ---
 ## Task 8: Computational Complexity
 
 Analysed the computational complexity of sorting algorithms with focus on bubble sort:
 
-- Implemented bubble sort with early termination optimization
+- Implemented bubble sort with early termination optimisation
 - Tested all permutations of [1,2,3,4,5] to demonstrate performance characteristics
 - Compared with better algorithms like merge sort (O(n log n)) and quick sort
 - Discussed factors that influence algorithm selection in practice
