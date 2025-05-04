@@ -174,4 +174,5 @@ cython_debug/
 /resources/
 
 # Ignore words.txt dictionary file
+words.txt/resources/
 words.txt
