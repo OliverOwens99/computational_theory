@@ -1,0 +1,7 @@
+numpy>=1.20.0
+
+# Standard library modules used (included with Python):
+# - math
+# - hashlib
+# - os
+# - itertools
