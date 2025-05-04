@@ -81,6 +81,6 @@ The analysis shows how small optimizations can significantly improve performance
 https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf  
 3. Turing, A. M. (1936). "On Computable Numbers, with an Application to the Entscheidungsproblem." Proceedings of the London Mathematical Society, Series 2, Volume 42, Issue 1, pp. 230-265.https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 4. Bubble sort explainationw3schools. https://www.w3schools.com/dsa/dsa_algo_bubblesort.php#:~:text=The%20Bubble%20Sort%20algorithm%20loops,again%20and%20again%20n%20times.
-5. Sieve of Eratones code : https://www.geeksforgeeks.org/python-program-for-sieve-of-eratosthenes/
+5. Sieve of Eratosthenes code: https://www.geeksforgeeks.org/python-program-for-sieve-of-eratosthenes/
 6. Trail Divison :https://www.geeksforgeeks.org/trial-division-algorithm-for-prime-factorization/
 7. Root cubes help :https://github.com/ianmcloughlin/computational_theory/blob/main/materials/cube_roots.ipynb
